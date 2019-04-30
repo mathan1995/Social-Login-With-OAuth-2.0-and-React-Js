@@ -3,9 +3,9 @@ npm install
 
 # Run
 
-Npm start
+Npm run bild
 
-# for Front end deployment
+#For Front end deployment
 
 use Oath 2.0 and JWS as AWS for the deployment pattern and best practices on spring boot + oath 2.0
 
