@@ -15,4 +15,3 @@ github
 google
 facebook
 
-# get Your own api beforw using and running client side
