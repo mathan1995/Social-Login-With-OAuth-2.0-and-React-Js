@@ -7,11 +7,12 @@ Npm run bild
 
 #For Front end deployment
 
-use Oath 2.0 and JWS as AWS for the deployment pattern and best practices on spring boot + oath 2.0
+use Oath 2.0 and JWt authentication factor  as AWS for the deployment pattern and best practices on spring boot + Oath 2.0
 
-# social Pttern
+# social Patern
 
 github
 google
 facebook
+linkedin
 
